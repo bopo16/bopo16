@@ -2,7 +2,7 @@
 
 ⛏️ I'm a geologist from Australia
 
-👀 I’m interested in data science, GIS, and ML applications in geology
+👀 I’m interested in data visualisation, GIS, and ML applications in geology
 
 🌱 I’m currently learning... a lot. I'm new to programming, so I'm starting with Python and R
 

@@ -1,10 +1,10 @@
 👋 Hi, I’m Jack
 
-⛏️ I'm a geologist from Australia
+⛏️ I'm a geoscientist from Australia, working mostly in geodata and geospatial applications.
 
-👀 I’m interested in data visualisation, GIS, and ML applications in geology
+👀 I’m interested in arty data visualisations, public transport maps, and ML applications in geology
 
-🌱 I’m currently learning... a lot. I'm still pretty new, so I'm learning [Python](https://github.com/csev/py4e), SQL, and following [OSSU](https://github.com/ossu/computer-science)
+🌱 Always learning something. I'm currently playing with [GTFS](https://gtfs.org) data, [isochrones](https://en.wikipedia.org/wiki/Isochrone_map), and Azure. 
 
 💞️ If you know of any good resources specific to geology and GIS, then hit me up!
 
